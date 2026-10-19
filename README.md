@@ -77,9 +77,9 @@ not change the file names.
 ### The format in one paragraph
 
 This course is *flipped*. You learn the basic material for each week **before**
-Friday by working through the week's Jupyter notebooks. **Monday afternoon** is
+Friday by working through the week's **lessons**. **Monday afternoon** is
 your preparation time for Friday: Dr. Harrap is there to help you work through
-the notebooks, start the exercise, and find the questions you want to bring to
+the lessons, start the exercise, and find the questions you want to bring to
 Friday. **Friday
 morning** with Prof. Straw is not a lecture. It is a discussion: we work on what
 you found difficult, look at different solutions, and go deeper. The weekly
@@ -87,12 +87,15 @@ exercise is due on Sunday, after the discussion. To pass, you must attend
 regularly and complete at least 12 of the 14 exercises. "Complete" includes
 being able to explain your own solution when asked.
 
+Each week has **lessons** (Jupyter notebooks that you learn from before Friday)
+and one **exercise** (a Jupyter notebook that you complete and submit).
+
 ### Weekly rhythm
 
 | When | What | Who |
 | ---- | ---- | --- |
 | Friday after class (week N−1) | Week N materials and exercise N are released in the course repository on GitHub | — |
-| **Monday 14:15–18:00**, Computerpool (Biologie II/III)* (week N) | Preparation session: work through week N notebooks, start exercise N, collect questions for Friday. Besprechungen of exercise N−1 | Dr. Harrap |
+| **Monday 14:15–18:00**, Computerpool (Biologie II/III)* (week N) | Preparation session: work through week N lessons, start exercise N, collect questions for Friday. Besprechungen of exercise N−1 | Dr. Harrap |
 | Thursday 18:00 (week N) | Post your questions about week N in the ILIAS forum (optional, but it shapes Friday) | You |
 | **Friday 10:15–11:45**, SR 1048 (Biologie I, Zoologie) (week N) | Discussion session on week N | Prof. Straw |
 | Friday 11:45–12:00 (week N) | Individual Besprechungen in German, and retries (only for students who have one scheduled) | Prof. Straw |
@@ -101,7 +104,7 @@ being able to explain your own solution when asked.
 \* Exceptions: on **14 December** and **25 January** the Monday session is in
 room R -100 (UG), Universitätsrechenzentrum.
 
-**Course material:** download the notebooks and exercises from this course
+**Course material:** download the lessons and exercises from this course
 repository on GitHub (see [Getting started](#getting-started)). From week 7
 on, you can also use git for this. **Submission:**
 upload your completed exercise notebook(s) to the exercise's folder in
@@ -142,7 +145,7 @@ The module is pass/fail (no grade). There are two requirements (Studienleistunge
   can apply to Prof. Straw for a substitute task (*Ersatzleistung*). Apply by
   e-mail with evidence (e.g. a medical certificate) within one week of the last
   missed session. The substitute task is a short individual meeting with Prof.
-  Straw on the material of the missed sessions, plus the notebooks for those
+  Straw on the material of the missed sessions, plus the lessons for those
   weeks.
 - If you miss **more than 30%**, or more than 15% without an approved
   substitute task, you have not attended regularly. You then have to take the
@@ -155,7 +158,7 @@ Monday is for getting ready for Friday. Once you are ready, you may leave
 Dr. Harrap. You are ready when:
 
 1. your Besprechung is done, if you were drawn that day;
-2. you have worked through the week's notebooks and can answer one or two of
+2. you have worked through the week's lessons and can answer one or two of
    their "check yourself" questions; and
 3. you have started the exercise and can say what you plan to do, or where you
    are stuck. Being stuck is fine: that is a question to bring to Friday.
@@ -262,8 +265,8 @@ GitHub, and uploading to ILIAS.
 ## Repository layout
 
 ```
-notebooks/
-    week-01/         notebooks for week 1
+lessons/
+    week-01/         lessons for week 1 (learn from these before Friday)
     week-02/         ...
 exercises/
     release/
