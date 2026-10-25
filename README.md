@@ -62,7 +62,7 @@ often load data files or images from their own folder. Do not rename the
 exercise notebooks. Be careful not to overwrite files you have already worked
 on.
 
-Later in the course (week 7), after you have learned to use the command line,
+Later in the course (week 6), after you have learned to use the command line,
 you will learn git, which can download the course material for you.
 
 ### 4. Submit your exercise
@@ -105,7 +105,7 @@ and one **exercise** (a Jupyter notebook that you complete and submit).
 room R -100 (UG), Universitätsrechenzentrum.
 
 **Course material:** download the lessons and exercises from this course
-repository on GitHub (see [Getting started](#getting-started)). From week 7
+repository on GitHub (see [Getting started](#getting-started)). From week 6
 on, you can also use git for this. **Submission:**
 upload your completed exercise notebook(s) to the exercise's folder in
 [ILIAS](https://ilias.uni-freiburg.de/goto.php/crs/4388458). Do not change the
@@ -239,12 +239,12 @@ Prüfungsausschuss.
 | Week | Monday | Friday | Topic | Exercise due (Sun 23:55) |
 | ---- | ------ | ------ | ----- | ------------------------ |
 | 1 | 19 Oct | 23 Oct | Course introduction, setup (Sunbeam, Python, Jupyter Lab, ILIAS), Python basics | Ex 1: 25 Oct |
-| 2 | 26 Oct | 30 Oct | Types, indexing, functions | Ex 2: 1 Nov |
-| 3 | 2 Nov | 6 Nov | Slicing, coercion, conditionals, while loops, strings | Ex 3: 8 Nov |
-| 4 | 9 Nov | 13 Nov | For loops, dictionaries, reading CSV files | Ex 4: 15 Nov |
+| 2 | 26 Oct | 30 Oct | Types, lists and indexing, first plots | Ex 2: 1 Nov |
+| 3 | 2 Nov | 6 Nov | Slicing, decisions with `if`, `while` loops, user input | Ex 3: 8 Nov |
+| 4 | 9 Nov | 13 Nov | `for` loops, strings, dictionaries | Ex 4: 15 Nov |
 | 5 | 16 Nov | 20 Nov | The command line and SSH | Ex 5: 22 Nov |
-| 6 | 23 Nov | 27 Nov | Programming with AI assistants | Ex 6: 29 Nov |
-| 7 | 30 Nov | 4 Dec | Classes, pandas, matplotlib, version control with git | Ex 7: 6 Dec |
+| 6 | 23 Nov | 27 Nov | Programming with AI assistants; version control with git | Ex 6: 29 Nov |
+| 7 | 30 Nov | 4 Dec | pandas, reading and writing data files, matplotlib | Ex 7: 6 Dec |
 | 8 | 7 Dec | 11 Dec | NumPy and optimization | Ex 8: 13 Dec |
 | 9 | 14 Dec* | 18 Dec | Image analysis | Ex 9: 20 Dec |
 | 10 | 21 Dec | 8 Jan | Clustering and principal component analysis (spans the Christmas break) | Ex 10: 10 Jan |
@@ -290,3 +290,10 @@ AI assistants
 - [openwebui.uni-freiburg.de](https://openwebui.uni-freiburg.de)
 - [claude.ai](https://claude.ai)
 - [ChatGPT](https://chatgpt.com)
+
+## About this material
+
+The course content (lessons, exercises and examples) was developed 
+by Andrew Straw. AI assistants (especially Claude Opus 5.5) were
+used to help restructure and reorganize the course, including individual
+notebooks in both the lessons and the exercises.
