@@ -37,6 +37,16 @@ Jupyter Lab on your own computer.
    several minutes while Python and the required packages are downloaded. A
    browser window then opens with Jupyter Lab running on your computer.
 
+**Alternative: the course JupyterHub server.** If you cannot install Sunbeam,
+or it does not work on your computer, you can use Jupyter Lab in your browser
+on the course server instead:
+https://strawlab-rp2.zoologie.uni-freiburg.de/hub/ . Log in with the username
+and password from the email of 23 October 2026. Your files are then stored on
+the server, not on your computer, so make your course folder (step 2) there,
+in Jupyter Lab's file browser. Use Jupyter Lab's upload button to
+add course files to it, and download your finished notebook (right-click it in
+the file browser, then "Download") before you upload it to ILIAS.
+
 ### 2. Make a folder for the course
 
 Make a folder for the course on your computer, for example `Documents/PM-21`.
