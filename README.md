@@ -229,7 +229,7 @@ following are true:
 
 - **AI assistants are allowed** for the exercises, as are discussing exercises
   with other students, the tutor, and web searches. AI-assisted programming is a
-  topic of the course (week 6).
+  topic of the course (week 7).
 - **Declare what you used.** Start every notebook with a short Markdown cell
   saying which tools or people helped you and for what (e.g. "Used ChatGPT to
   explain the error in task 3"). Declaring AI use never counts against you.
@@ -252,15 +252,15 @@ Prüfungsausschuss.
 | 2 | 26 Oct | 30 Oct | Types, lists and indexing, first plots | Ex 2: 1 Nov |
 | 3 | 2 Nov | 6 Nov | Slicing, decisions with `if`, `while` loops, user input | Ex 3: 8 Nov |
 | 4 | 9 Nov | 13 Nov | `for` loops, strings, dictionaries | Ex 4: 15 Nov |
-| 5 | 16 Nov | 20 Nov | The command line and SSH | Ex 5: 22 Nov |
-| 6 | 23 Nov | 27 Nov | Programming with AI assistants; version control with git | Ex 6: 29 Nov |
-| 7 | 30 Nov | 4 Dec | pandas, reading and writing data files, matplotlib | Ex 7: 6 Dec |
-| 8 | 7 Dec | 11 Dec | NumPy and optimization | Ex 8: 13 Dec |
-| 9 | 14 Dec* | 18 Dec | Image analysis | Ex 9: 20 Dec |
-| 10 | 21 Dec | 8 Jan | Clustering and principal component analysis (spans the Christmas break) | Ex 10: 10 Jan |
-| 11 | 11 Jan | 15 Jan | Online bioinformatics and web APIs | Ex 11: 17 Jan |
-| 12 | 18 Jan | 22 Jan | Probability, simulation, and Bayes' theorem | Ex 12: 24 Jan |
-| 13 | 25 Jan* | 29 Jan | Bayesian inference with MCMC; Kalman filters | Ex 13: 31 Jan |
+| 5 | 16 Nov | 20 Nov | The command line: files, directories and Python scripts | Ex 5: 22 Nov |
+| 6 | 23 Nov | 27 Nov | The command line on other computers (SSH), installing packages; version control with git | Ex 6: 29 Nov |
+| 7 | 30 Nov | 4 Dec | Programming with AI assistants | Ex 7: 6 Dec |
+| 8 | 7 Dec | 11 Dec | pandas, reading and writing data files, matplotlib | Ex 8: 13 Dec |
+| 9 | 14 Dec* | 18 Dec | NumPy and optimization | Ex 9: 20 Dec |
+| 10 | 21 Dec | 8 Jan | Image analysis (spans the Christmas break) | Ex 10: 10 Jan |
+| 11 | 11 Jan | 15 Jan | Clustering and principal component analysis | Ex 11: 17 Jan |
+| 12 | 18 Jan | 22 Jan | Online bioinformatics and web APIs | Ex 12: 24 Jan |
+| 13 | 25 Jan* | 29 Jan | Probability, simulation and Bayesian inference | Ex 13: 31 Jan |
 | 14 | 1 Feb | 5 Feb | Deep learning and pretrained AI models | Ex 14: 7 Feb |
 | 15 | 8 Feb | 12 Feb | Review and wrap-up; final retries | — |
 
