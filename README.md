@@ -72,8 +72,10 @@ often load data files or images from their own folder. Do not rename the
 exercise notebooks. Be careful not to overwrite files you have already worked
 on.
 
-Later in the course (week 6), after you have learned to use the command line,
-you will learn git, which can download the course material for you.
+From week 6 on, after you have learned the command line and git, you can
+also let git fetch the course material: `git clone` once, then `git pull`
+each week. This is optional, and downloading from the website always works.
+See lesson 3 of week 6, section "The course material with git".
 
 ### 4. Submit your exercise
 
@@ -116,7 +118,7 @@ room R -100 (UG), Universitätsrechenzentrum.
 
 **Course material:** download the lessons and exercises from this course
 repository on GitHub (see [Getting started](#getting-started)). From week 6
-on, you can also use git for this. **Submission:**
+on, you can also use git for this (optional). **Submission:**
 upload your completed exercise notebook(s) to the exercise's folder in
 [ILIAS](https://ilias.uni-freiburg.de/goto.php/crs/4388458). Do not change the
 file names.
