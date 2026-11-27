@@ -217,8 +217,8 @@ following are true:
 - **Allowed:** your own submitted notebook and the course materials. **Not
   allowed:** AI tools or help from others during the Besprechung.
 - **Language:** Dr. Harrap holds Besprechungen in English. If you prefer to
-  explain in German, write "Besprechung auf Deutsch" in the first cell of your
-  notebook. Prof. Straw will then hold your Besprechung on Friday 11:45–12:00,
+  explain in German, add a Markdown cell at the top of your notebook with the
+  words "Besprechung auf Deutsch". Prof. Straw will then hold your Besprechung on Friday 11:45–12:00,
   or at an agreed time.
 - **Outcome:** "explained", and the exercise counts; or "not yet". After a "not
   yet", you get **one retry with Prof. Straw**, usually Friday 11:45–12:00 the
@@ -232,9 +232,6 @@ following are true:
 - **AI assistants are allowed** for the exercises, as are discussing exercises
   with other students, the tutor, and web searches. AI-assisted programming is a
   topic of the course (week 7).
-- **Declare what you used.** Start every notebook with a short Markdown cell
-  saying which tools or people helped you and for what (e.g. "Used ChatGPT to
-  explain the error in task 3"). Declaring AI use never counts against you.
 - **You must understand what you submit.** This is what the Besprechung checks.
   If you submit code you cannot explain, the exercise simply does not count.
 - Submitting another student's work as your own can be treated as cheating
